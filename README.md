@@ -1,6 +1,4 @@
-# Analyzer-Excel
-
-# 📊 PR. 2 Analyzer
+# 📊 Analyzer-Excel
 
 ### Excel Data Analysis & Dashboard Project
 
